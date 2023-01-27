@@ -3,3 +3,5 @@ Salade
 Tomate
 cornichon
 fromage
+hot_dog
+jambon_beurre
